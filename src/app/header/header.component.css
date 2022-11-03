@@ -1,0 +1,11 @@
+header {
+    background-color: #ccc;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem;
+    width: 100%;
+    z-index: 100;
+}
+
+h1 {
+    text-align: center;
+}
