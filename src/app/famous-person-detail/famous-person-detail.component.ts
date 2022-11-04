@@ -9,6 +9,7 @@ import { Complete } from '../devs-api-response';
 export class FamousPersonDetailComponent implements OnInit {
 
   @Input() dev: Complete = {} as Complete;
+  
   display: boolean = false;
 
   constructor() { }
